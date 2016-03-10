@@ -36,3 +36,6 @@ I also intend to have a friendly tab for students, and a parent portal so they c
 
 
 go to site: libertascollegeprep.org
+
+
+very well-maded website with a lot of information
