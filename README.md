@@ -33,3 +33,6 @@ Our responses to these forms can be downloaded to an excel sheet like this one:
 In mind and towards completing this project I am planning to continue to organize and implement more information to this website,  as we continue to grow I plan to continue to update this website with more pictures and more information about what our school offers. Right now I am in the mist of completing another project approval to have it live within some time.  
 
 I also intend to have a friendly tab for students, and a parent portal so they can look into all the applications we utilize at school for behavior purposes and to make it easier for them to check  on a daily basis. 
+
+
+go to site: libertascollegeprep.org
